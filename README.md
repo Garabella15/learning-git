@@ -1,2 +1,2 @@
 # learning-git
-This git repository is for improving the practice of using git and github commands. This is to enable efficiency and personal development and to add value to the team.
+This git repository is to the practice of git and github in order to improve efficiency and professional development while adding value to project.
